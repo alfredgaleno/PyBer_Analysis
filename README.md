@@ -14,7 +14,7 @@ As evidenced above the suburban and urban areas have more drivers which in turn 
 
 When looking at the ways rides vary over time, it appears there is not a significant change in rides by time period.
 
-![image](https://user-images.githubusercontent.com/91395269/148665775-622e8f2b-8575-4f4a-8609-073d621c7941.png)
+![image](https://user-images.githubusercontent.com/91395269/148666397-7a9e49c4-0f8c-4103-9889-c8f7b3c14c5d.png)
 Fig.2
 
 The amount made by drivers can vary slightly month to month but on the whole is fairly steady and can be a good source of extra income.
